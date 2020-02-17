@@ -1,5 +1,5 @@
 
-**Project Name **：Students Taking Number System.
+**Project Name**：###Students Taking Number System.
 
 Wechat enterprise account, school of software and microelectronics, Peking University
 
@@ -34,16 +34,10 @@ After you get your number, check your own number
 Ye Zhenxu 1501210406
 zhang Yaoyuan 1501210798
 
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 **北京大学软件与微电子学院微信企业号开发**
