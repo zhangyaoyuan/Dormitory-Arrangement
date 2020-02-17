@@ -3,16 +3,16 @@
 
 Wechat Enterprise Development, school of software and microelectronics, Peking University
 
-**Software introduction**
+**Software Introduction**
 
 Freshman id is one of the applications of enterprise id in the school of software and microelectronics of Peking University. It is mainly used to make it convenient for freshmen to get id online when they enter the university.
 Instead of getting up early and waiting in line. The application is divided into two parts: _the administrator part and the student part_. Different sections are used by different user groups. As long as the administrator part is used by teachers in charge of reporting in the school, they can complete the management of registration and number taking through the administrator function interface. The student part is for the use of new students, they through the student function interface, to complete the number, view the number, retake the number and other functions.
 
-**System deployment**
+**System Development**
 
-**Use help**
+**Use Help**
 
-**Administrator section**:
+**Administrator Section**:
 
 1. The administrator can send a broadcast to the students to inform them of the time to start taking the number
 2. Administrators can broadcast to students to inform students who need to deal with business in batches and go to deal with business immediately
@@ -29,7 +29,7 @@ Instead of getting up early and waiting in line. The application is divided into
 After you get your number, check your own number
 
 
-**developers**:
+**Developers**:
 
 Ye Zhenxu 1501210406
 zhang Yaoyuan 1501210798
