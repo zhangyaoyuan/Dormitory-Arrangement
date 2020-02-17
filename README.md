@@ -1,7 +1,7 @@
 
 **Project Name**：Students Taking Number System.
 
-Wechat enterprise account, school of software and microelectronics, Peking University
+Wechat Enterprise Development, school of software and microelectronics, Peking University
 
 **Software introduction**
 
