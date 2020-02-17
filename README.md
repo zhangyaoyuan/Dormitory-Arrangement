@@ -1,5 +1,5 @@
 
-**Project Name**：###Students Taking Number System.
+**Project Name**：Students Taking Number System.
 
 Wechat enterprise account, school of software and microelectronics, Peking University
 
